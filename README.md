@@ -1,0 +1,2 @@
+# springcloud_config
+springconfig的外部资源库
